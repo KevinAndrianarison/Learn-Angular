@@ -1,15 +1,14 @@
-.h1, .Content{
+.item{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 600;
 }
 
-
-.list{
+.container{
     display: flex;
     align-items: center;
 }
 
-.X{
+button{
     height: 50%;
     margin-left: 10px;
 }
